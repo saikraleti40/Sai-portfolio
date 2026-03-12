@@ -2,12 +2,15 @@
   "name": "sai-portfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://saikraleti40.github.io/Sai-portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",
