@@ -15,43 +15,42 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4> Web & App Developer</h4>
+                <h5>Composol Software Pvt Ltd</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2019-22</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
+              Built 3+ complete applications using  Angular and React.js, showcasing expertise in scalable
+              Front-End development and Integrated backend
+              authentication using Node.js . Created responsive UI/UX
               and designed wireframes using Figma.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Lead Engineer Web & App Developer</h4>
+                <h5>Mastercard Digital Experience Platform</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2022-23</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Led two development teams on DXP, a large-scale Content Management System. Developed multiple modules using Angular & migrated critical functionalities to Node.js microservices.
+              And also worked for Fintech, Fintech refers to the integration of technology into offerings by financial services companies to improve their use and delivery to consumers, here we used to develop the UI and UX part of the fintech in the Mastercard, pages and screens were developed and payment gateways were developed.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Technical Lead</h4>
+                <h5>Western Union</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2023-25</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Western Union is a global money transfer app enabling seamless international transactions.
+              It offers two convenient transfer methods Digital and retail. users can effortlessly send money across borders with just few taps.
             </p>
           </div>
         </div>
