@@ -8,31 +8,31 @@ const projects = [
     title: "DROC",
     category: "Hospital Management System",
     tools: "Angular, HTML5, CSS3, Bootstrap, Angular Material",
-    image: "/images/DROC.jpg",
+    image: "images/DROC.jpg",
   },
   {
     title: "Insta Accounts ",
     category: "Banking",
     tools: "Angular, Angular 8,9, CSS3, HTML5, Bootstrap",
-    image: "/images/Insta.jpg",
+    image: "images/Insta.jpg",
   },
   {
     title: "Master Card",
     category: "Digital Experience Platform",
     tools: "HTML,CSS,Bootstrap,Angular 14,15,Angular Material,vue JS,Stencil Js",
-    image: "/images/Mastercard.png",
+    image: "images/Mastercard.png",
   },
   {
     title: "Master Card",
     category: "Fintech",
     tools: "AngularJS, HTML,CSS,Bootstrap,Angular 14,15",
-    image: "/images/Fintech.jpg",
+    image: "images/Fintech.jpg",
   },
   {
     title: "Western Union",
     category: "Money Transfer",
     tools: "Angular 14+, AngularJS, RxJS 7, and NgRx, code reviews, and TDD (Jasmine/Karma)",
-    image: "/images/Western Union.png",
+    image: "images/Western Union.png",
   },
 ];
 
